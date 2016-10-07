@@ -1,3 +1,4 @@
+package com.calctest;
 /**
  * 
  * Class Calculator. Just a implementation of a simple calculator. 
